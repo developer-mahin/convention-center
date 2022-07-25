@@ -186,4 +186,8 @@ footer {
     .accordion {
         margin-top: 10px;
     }
+    
+    div#footer-row {
+        flex-direction: column-reverse;
+    }
 }
