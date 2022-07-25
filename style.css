@@ -143,7 +143,10 @@ i.fa-solid.fa-gift.text-primary.me-2 {
 }
 /* Our package End */
 
-
+footer {
+    padding: 70px 0px;
+    background: black;
+}
 
 
 
